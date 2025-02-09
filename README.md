@@ -50,11 +50,11 @@ O código está organizado em um único arquivo que contém:
 
 ## Como Usar
 
-1. Salve o código em um arquivo chamado `grid_analyzer.py`
+1. Salve o código em um arquivo chamado `graph.py`
 
 2. Execute o script:
 ```bash
-python grid_analyzer.py
+python graph.py
 ```
 
 3. O script irá:
